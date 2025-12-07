@@ -89,7 +89,7 @@ Informatics engineering student • aspiring mobile analyst • part-time reside
 
 ---
 
-# 🌊 Contact Me (Through Jellyfish Fields)
+# 🌊 Contact Me
 
 <p align="center">
   <!-- Email -->
