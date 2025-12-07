@@ -1,77 +1,128 @@
-<!-- HEADER -->
-<div align="center">
+<!-- CHAOTIC BIKINI BOTTOM README FOR JIHAN 🌊🪼💙 -->
 
-<img src="https://i.gifer.com/7VE.gif" width="120" />
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnRwcGJkN3g1M21oeXpmM2ZxZzYxZjFnOHkxNDlwNzQ2b2cxcmE3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YfSKB039u1zspUoaJp/giphy.gif" width="70"/>
+  Welcome to Kia’s Under the Sea  
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnRwcGJkN3g1M21oeXpmM2ZxZzYxZjFnOHkxNDlwNzQ2b2cxcmE3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YfSKB039u1zspUoaJp/giphy.gif" width="70"/>
+</h1>
 
-# 🌊💙 Welcome to Kia’s Chaotic Blue Bikini Bottom 💙🌊  
-*just coding • just vibing • certified jellyfish enjoyer 🪼*
-
-</div>
-
----
+<p align="center">
+  <em>just coding • just vibing • certified jellyfish enjoyer 🪼</em>
+</p>
 
 <br>
 
-<!-- MAIN GIF -->
+<!-- AVATAR CENTER JELLYFISH -->
+<p align="center">
+  <img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="120"/>
+</p>
+
+---
+
+# 💙 Who Lives in a GitHub Under the Sea?
+
+**Zaskia Jihan (she/her)** —  
+Informatics engineering student • aspiring mobile analyst • part-time resident of Bikini Bottom  
+
+🔹 specializes in:  
+- web dev, mobile learning  
+- UI/UX blueprint maker  
+- PHP, Java, JS, Python  
+- touching random IoT sensors for fun  
+
+<br>
+
+---
+
+# 🧽 Energy Characters
+
+<p align="center">
+  <!-- SpongeBob -->
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180"/>
+  <!-- Mr. Krabs -->
+  <img src="https://media.giphy.com/media/3o85xoi6nNqJQJ95Qc/giphy.gif" width="180"/>
+</p>
+
+---
+
+# 🔵 Tech Stack 
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css,php,java,cpp,py,mysql,react,git,vscode&theme=dark" />
+</p>
+
+---
+
+# 🪼 Featured Projects
+
+| Project | Stack | Vibe |
+|--------|-------|------|
+| **Bersih Cepat** | JS + PHP | "Nyuci motor tapi digital" edition |
+| **8 Puzzle Solver** | Python | BFS + A\* tapi chaotic |
+| **Ticket System** | PHP | Patrick approved |
+| **IoT Soil Moisture** | ESP8266 | tanaman auto minum biar ga ambyar |
+
+---
+
+# 🐟 Underwater Statboard 
+
 <div align="center">
-<img src="https://media1.tenor.com/m/0tTzTnQ2Y1QAAAAd/spongebob-fish.gif" width="350" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kiaomi22&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiaomi22&bg_color=000012&color=26b3ff&line=0aaaff&point=00eaff&area=true&hide_border=true"/>
+
 </div>
 
 ---
 
-## 🧽 Chaotic Energy Characters (Spongebob Edition Only)
-<div align="center">
+# 🦀 Krabby Patty Coding Fuel
 
-<img src="https://media1.tenor.com/m/FKEXZ8yM-DgAAAAd/spongebob-mad.gif" width="220" />
-<img src="https://media1.tenor.com/m/_oE3Wdl66YIAAAAC/patrick-star-spongebob.gif" width="220" />
-<img src="https://media1.tenor.com/m/7p7Zh9JloY0AAAAd/mr-krabs-spongebob.gif" width="220" />
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif" width="200"/>
+</p>
 
-<br><br>
-
-**Spongebob** → ngoding jam 3 pagi sambil bilang *“I’m ready!!”*  
-**Patrick** → error 1 baris = “lah kok nggak jalan??”  
-**Tuan Krab** → commit dikit, tapi pelit hapus file sampah  
-
-</div>
+<p align="center"><em>
+“Programming? That’ll be $5.99.” — Mr. Krabs  
+</em></p>
 
 ---
 
-## 🔵 Tech Stack (Blue Mode Activated)
-<div align="center">
+# 🌊 Contact Me (Through Jellyfish Fields)
 
-<img src="https://skillicons.dev/icons?i=js,html,css,php,java,cpp,python,react,git,vscode&theme=dark" />
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:kiahanabil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-009dff?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<br><br>
+  <!-- Instagram -->
+  <a href="https://instagram.com/zaskiajinab">
+    <img src="https://img.shields.io/badge/Instagram-0055ff?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
-<img src="https://media1.tenor.com/m/7Yi-lZ31k3UAAAAd/squidward-spongebob.gif" width="300" />
+  <!-- LinkedIn (link dari kamu) -->
+  <a href="https://www.instagram.com/zaskiajinab?igsh=cWF1Mjg2OWlwOGF1&utm_source=qr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-</div>
+  <!-- YouTube -->
+  <a href="https://youtube.com/@zaskiajihan22?si=zDHvxKLQejH7Awnd">
+    <img src="https://img.shields.io/badge/YouTube-0044ff?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 
----
+  <!-- Spotify -->
+  <a href="https://open.spotify.com/user/31codcigrbwwm6ixmdu4x7rqf7ey?si=50c2a1d7efad4ab3">
+    <img src="https://img.shields.io/badge/Spotify-0033ff?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
 
-## 🪼 Fun Stats Under the Sea
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kiaomi22&theme=blueberry_duo&hide_border=true" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiaomi22&layout=compact&theme=tokyonight&hide_border=true" />
+<br>
 
-</div>
-
----
-
-## 🌊 Vibes of the Profile
-💙 ocean-core aesthetic  
-💙 blue neon glowing energy  
-💙 chaotic cute but still geeky  
-💙 jellyfish + spongebob + coding midnight mode  
-
----
-
-<div align="center">
-
-### 🫧 Thanks for diving into my digital reef ✨  
-*— Kia, your friendly chaotic coder from under the sea 🪸*
-
-<img src="https://media1.tenor.com/m/1j5p4P1Fc5QAAAAC/spongebob-jellyfish.gif" width="250" />
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="120"/>
+  <br>
+  <em>“The sea may be salty, but your code doesn't have to be.”</em>
+</p>
