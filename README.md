@@ -53,17 +53,6 @@ Informatics engineering student • aspiring mobile analyst • part-time reside
 
 ---
 
-# 🪼 Featured Projects
-
-| Project | Stack | Vibe |
-|--------|-------|------|
-| **Bersih Cepat** | JS + PHP | "Nyuci motor tapi digital" edition |
-| **8 Puzzle Solver** | Python | BFS + A\* tapi chaotic |
-| **Ticket System** | PHP | Patrick approved |
-| **IoT Soil Moisture** | ESP8266 | tanaman auto minum biar ga ambyar |
-
----
-
 # 🐟 Underwater Statboard 
 
 <div align="center">
